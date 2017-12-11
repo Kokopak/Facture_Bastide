@@ -71,5 +71,7 @@ public class Article {
     public String toString() {
         return String.format("[%s] %s, prix unitaire %6.2f€",code, nom, prix);
     }
+    
+    
 
 }
